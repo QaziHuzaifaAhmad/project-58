@@ -1,0 +1,27 @@
+#pra{
+ text-align:center;
+  color:purple;
+}
+#img{
+ width:50%;
+}
+body{
+ background: linear-gradient(#69ff91 0%, #0058f0 100%); 
+ text-align:center;
+}
+.menu{
+position: fixed;
+cursor:pointer;
+
+}
+.link{
+float:right;
+color:aqua;
+margin-right: 5px;
+margin-left: 5px;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+link:hover{
+background-color: red;
+}
